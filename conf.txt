@@ -1,2 +1,2 @@
 fichier à ignorer par git
-test Github
+test Github KO, il est pusché
