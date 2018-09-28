@@ -1,0 +1,2 @@
+fichier à ignorer par git
+test Github
